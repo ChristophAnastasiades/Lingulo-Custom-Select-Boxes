@@ -10,15 +10,15 @@ This script converts your select boxes into CSS3 animated ones. To do so simply 
 3. Add your select box after the "span" element inside "lg-select"
 
 
-<div class="lg-select style1">
-  <span class="lg-placeholder"><i class="fa fa-paw"></i> Choose Your Dog</span>
-  <select>
-    <option value="black-labrador">Black Labrador</option>
-    <option value="old-english-sheepdog">Old English Sheepdog</option>
-    <option value="pomeranian">Pomeranian</option>
-    <option value="black-pug">Black Pug</option>
-    <option value="white-poodle">White Poodle</option>
-    <option value="saint-bernard">Saint Bernard</option>
-    <option value="rhodesian-ridgeback">Rhodesian Ridgeback</option>
-  </select>
-</div>
+    <div class="lg-select style1">
+      <span class="lg-placeholder"><i class="fa fa-paw"></i> Choose Your Dog</span>
+      <select>
+        <option value="black-labrador">Black Labrador</option>
+        <option value="old-english-sheepdog">Old English Sheepdog</option>
+        <option value="pomeranian">Pomeranian</option>
+        <option value="black-pug">Black Pug</option>
+        <option value="white-poodle">White Poodle</option>
+        <option value="saint-bernard">Saint Bernard</option>
+        <option value="rhodesian-ridgeback">Rhodesian Ridgeback</option>
+      </select>
+    </div>
